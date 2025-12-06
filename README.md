@@ -32,7 +32,7 @@ go version # should display go1.22.8
 
 # 3. Set variables (change MONIKER to the name you want to display in Explorer)
 echo “export WALLET=wallet” >> ~/.bash_profile
-echo “export MONIKER=CZ's Team” >> ~/.bash_profile # change to your name
+echo “export MONIKER=YourName” >> ~/.bash_profile # change to your name
 echo “export SAFROCHAIN_CHAIN_ID=safro-testnet-1” >> ~/.bash_profile
 echo “export SAFROCHAIN_PORT=13” >> ~/.bash_profile
 source ~/.bash_profile
